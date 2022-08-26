@@ -30,9 +30,3 @@ Ctrl + Shift + F =>  將攝影機 重新定位 到場景攝影機所在的位置
 raycast 是看 collider , 如果mesh renderer 關掉 collider依舊開著  Debug.Log(Physics.Raycast(ray)); 會返回true
 <<<<<<< HEAD
 
-
-## 下載資源
-
-Mixamo
-=======
->>>>>>> 852a412eabed5d6d6f11ed745a99061e9465be7b
