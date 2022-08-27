@@ -20,6 +20,8 @@ Edit -> Project Setting -> Script Execution Order 可以調整程式優先度
 
 Ragdoll
 
+ProBuilder
+
 ### 程式方面
 ```csharp
 [SerializeField] private LayerMask mousePlaneLayerMask;
